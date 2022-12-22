@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-22T21:04:44.871496Z</date>
+  <millis>1671743084871</millis>
+  <nanos>496000</nanos>
+  <sequence>0</sequence>
+  <logger>banqueAspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>addCompte_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>----------</message>
+</record>
+<record>
+  <date>2022-12-22T21:04:44.877756Z</date>
+  <millis>1671743084877</millis>
+  <nanos>756000</nanos>
+  <sequence>1</sequence>
+  <logger>banqueAspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>addCompte_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>Avant l'execution de la methodevoid metier.MetierBanqueImpl.addCompte(Compte)</message>
+</record>
+<record>
+  <date>2022-12-22T21:04:44.878025Z</date>
+  <millis>1671743084878</millis>
+  <nanos>25000</nanos>
+  <sequence>2</sequence>
+  <logger>banqueAspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>addCompte_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>Apres l'execution de la methodevoid metier.MetierBanqueImpl.addCompte(Compte)</message>
+</record>
+<record>
+  <date>2022-12-22T21:04:44.878265Z</date>
+  <millis>1671743084878</millis>
+  <nanos>265000</nanos>
+  <sequence>3</sequence>
+  <logger>banqueAspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>addCompte_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>duree d'execution de la methode:7 ms</message>
+</record>
+<record>
+  <date>2022-12-22T21:04:44.878480Z</date>
+  <millis>1671743084878</millis>
+  <nanos>480000</nanos>
+  <sequence>4</sequence>
+  <logger>banqueAspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>addCompte_aroundBody1$advice</method>
+  <thread>1</thread>
+  <message>----------</message>
+</record>
+<record>
+  <date>2022-12-22T21:04:49.537779Z</date>
+  <millis>1671743089537</millis>
+  <nanos>779000</nanos>
+  <sequence>5</sequence>
+  <logger>banqueAspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>consulterCompte_aroundBody9$advice</method>
+  <thread>1</thread>
+  <message>----------</message>
+</record>
+<record>
+  <date>2022-12-22T21:04:49.538427Z</date>
+  <millis>1671743089538</millis>
+  <nanos>427000</nanos>
+  <sequence>6</sequence>
+  <logger>banqueAspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>consulterCompte_aroundBody9$advice</method>
+  <thread>1</thread>
+  <message>Avant l'execution de la methodeCompte metier.MetierBanqueImpl.consulterCompte(long)</message>
+</record>
+<record>
+  <date>2022-12-22T21:04:49.538839Z</date>
+  <millis>1671743089538</millis>
+  <nanos>839000</nanos>
+  <sequence>7</sequence>
+  <logger>banqueAspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>consulterCompte_aroundBody9$advice</method>
+  <thread>1</thread>
+  <message>Apres l'execution de la methodeCompte metier.MetierBanqueImpl.consulterCompte(long)</message>
+</record>
+<record>
+  <date>2022-12-22T21:04:49.539197Z</date>
+  <millis>1671743089539</millis>
+  <nanos>197000</nanos>
+  <sequence>8</sequence>
+  <logger>banqueAspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>consulterCompte_aroundBody9$advice</method>
+  <thread>1</thread>
+  <message>duree d'execution de la methode:2 ms</message>
+</record>
+<record>
+  <date>2022-12-22T21:04:49.539587Z</date>
+  <millis>1671743089539</millis>
+  <nanos>587000</nanos>
+  <sequence>9</sequence>
+  <logger>banqueAspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>consulterCompte_aroundBody9$advice</method>
+  <thread>1</thread>
+  <message>----------</message>
+</record>
+<record>
+  <date>2022-12-22T21:04:56.325529Z</date>
+  <millis>1671743096325</millis>
+  <nanos>529000</nanos>
+  <sequence>10</sequence>
+  <logger>banqueAspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>consulterCompte_aroundBody9$advice</method>
+  <thread>1</thread>
+  <message>----------</message>
+</record>
+<record>
+  <date>2022-12-22T21:04:56.326060Z</date>
+  <millis>1671743096326</millis>
+  <nanos>60000</nanos>
+  <sequence>11</sequence>
+  <logger>banqueAspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>consulterCompte_aroundBody9$advice</method>
+  <thread>1</thread>
+  <message>Avant l'execution de la methodeCompte metier.MetierBanqueImpl.consulterCompte(long)</message>
+</record>
+<record>
+  <date>2022-12-22T21:04:56.326381Z</date>
+  <millis>1671743096326</millis>
+  <nanos>381000</nanos>
+  <sequence>12</sequence>
+  <logger>banqueAspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>consulterCompte_aroundBody9$advice</method>
+  <thread>1</thread>
+  <message>Apres l'execution de la methodeCompte metier.MetierBanqueImpl.consulterCompte(long)</message>
+</record>
+<record>
+  <date>2022-12-22T21:04:56.326667Z</date>
+  <millis>1671743096326</millis>
+  <nanos>667000</nanos>
+  <sequence>13</sequence>
+  <logger>banqueAspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>consulterCompte_aroundBody9$advice</method>
+  <thread>1</thread>
+  <message>duree d'execution de la methode:1 ms</message>
+</record>
+<record>
+  <date>2022-12-22T21:04:56.326935Z</date>
+  <millis>1671743096326</millis>
+  <nanos>935000</nanos>
+  <sequence>14</sequence>
+  <logger>banqueAspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>consulterCompte_aroundBody9$advice</method>
+  <thread>1</thread>
+  <message>----------</message>
+</record>
+<record>
+  <date>2022-12-22T21:04:56.327202Z</date>
+  <millis>1671743096327</millis>
+  <nanos>202000</nanos>
+  <sequence>15</sequence>
+  <logger>banqueAspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>retirer_aroundBody5$advice</method>
+  <thread>1</thread>
+  <message>----------</message>
+</record>
+<record>
+  <date>2022-12-22T21:04:56.327486Z</date>
+  <millis>1671743096327</millis>
+  <nanos>486000</nanos>
+  <sequence>16</sequence>
+  <logger>banqueAspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>retirer_aroundBody5$advice</method>
+  <thread>1</thread>
+  <message>Avant l'execution de la methodevoid metier.MetierBanqueImpl.retirer(double, long)</message>
+</record>
+<record>
+  <date>2022-12-22T21:04:56.327779Z</date>
+  <millis>1671743096327</millis>
+  <nanos>779000</nanos>
+  <sequence>17</sequence>
+  <logger>banqueAspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>retirer_aroundBody5$advice</method>
+  <thread>1</thread>
+  <message>Apres l'execution de la methodevoid metier.MetierBanqueImpl.retirer(double, long)</message>
+</record>
+<record>
+  <date>2022-12-22T21:04:56.328075Z</date>
+  <millis>1671743096328</millis>
+  <nanos>75000</nanos>
+  <sequence>18</sequence>
+  <logger>banqueAspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>retirer_aroundBody5$advice</method>
+  <thread>1</thread>
+  <message>duree d'execution de la methode:1 ms</message>
+</record>
+<record>
+  <date>2022-12-22T21:04:56.328311Z</date>
+  <millis>1671743096328</millis>
+  <nanos>311000</nanos>
+  <sequence>19</sequence>
+  <logger>banqueAspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>retirer_aroundBody5$advice</method>
+  <thread>1</thread>
+  <message>----------</message>
+</record>
+<record>
+  <date>2022-12-22T21:04:56.328566Z</date>
+  <millis>1671743096328</millis>
+  <nanos>566000</nanos>
+  <sequence>20</sequence>
+  <logger>banqueAspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>consulterCompte_aroundBody9$advice</method>
+  <thread>1</thread>
+  <message>----------</message>
+</record>
+<record>
+  <date>2022-12-22T21:04:56.328835Z</date>
+  <millis>1671743096328</millis>
+  <nanos>835000</nanos>
+  <sequence>21</sequence>
+  <logger>banqueAspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>consulterCompte_aroundBody9$advice</method>
+  <thread>1</thread>
+  <message>Avant l'execution de la methodeCompte metier.MetierBanqueImpl.consulterCompte(long)</message>
+</record>
+<record>
+  <date>2022-12-22T21:04:56.329080Z</date>
+  <millis>1671743096329</millis>
+  <nanos>80000</nanos>
+  <sequence>22</sequence>
+  <logger>banqueAspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>consulterCompte_aroundBody9$advice</method>
+  <thread>1</thread>
+  <message>Apres l'execution de la methodeCompte metier.MetierBanqueImpl.consulterCompte(long)</message>
+</record>
+<record>
+  <date>2022-12-22T21:04:56.329387Z</date>
+  <millis>1671743096329</millis>
+  <nanos>387000</nanos>
+  <sequence>23</sequence>
+  <logger>banqueAspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>consulterCompte_aroundBody9$advice</method>
+  <thread>1</thread>
+  <message>duree d'execution de la methode:1 ms</message>
+</record>
+<record>
+  <date>2022-12-22T21:04:56.329629Z</date>
+  <millis>1671743096329</millis>
+  <nanos>629000</nanos>
+  <sequence>24</sequence>
+  <logger>banqueAspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>consulterCompte_aroundBody9$advice</method>
+  <thread>1</thread>
+  <message>----------</message>
+</record>
+<record>
+  <date>2022-12-22T21:05:00.995805Z</date>
+  <millis>1671743100995</millis>
+  <nanos>805000</nanos>
+  <sequence>25</sequence>
+  <logger>banqueAspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>verser_aroundBody3$advice</method>
+  <thread>1</thread>
+  <message>----------</message>
+</record>
+<record>
+  <date>2022-12-22T21:05:00.996726Z</date>
+  <millis>1671743100996</millis>
+  <nanos>726000</nanos>
+  <sequence>26</sequence>
+  <logger>banqueAspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>verser_aroundBody3$advice</method>
+  <thread>1</thread>
+  <message>Avant l'execution de la methodevoid metier.MetierBanqueImpl.verser(double, long)</message>
+</record>
+<record>
+  <date>2022-12-22T21:05:00.997131Z</date>
+  <millis>1671743100997</millis>
+  <nanos>131000</nanos>
+  <sequence>27</sequence>
+  <logger>banqueAspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>verser_aroundBody3$advice</method>
+  <thread>1</thread>
+  <message>Apres l'execution de la methodevoid metier.MetierBanqueImpl.verser(double, long)</message>
+</record>
+<record>
+  <date>2022-12-22T21:05:00.997428Z</date>
+  <millis>1671743100997</millis>
+  <nanos>428000</nanos>
+  <sequence>28</sequence>
+  <logger>banqueAspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>verser_aroundBody3$advice</method>
+  <thread>1</thread>
+  <message>duree d'execution de la methode:2 ms</message>
+</record>
+<record>
+  <date>2022-12-22T21:05:00.997699Z</date>
+  <millis>1671743100997</millis>
+  <nanos>699000</nanos>
+  <sequence>29</sequence>
+  <logger>banqueAspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>verser_aroundBody3$advice</method>
+  <thread>1</thread>
+  <message>----------</message>
+</record>
+<record>
+  <date>2022-12-22T21:05:00.998113Z</date>
+  <millis>1671743100998</millis>
+  <nanos>113000</nanos>
+  <sequence>30</sequence>
+  <logger>banqueAspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>consulterCompte_aroundBody9$advice</method>
+  <thread>1</thread>
+  <message>----------</message>
+</record>
+<record>
+  <date>2022-12-22T21:05:00.998361Z</date>
+  <millis>1671743100998</millis>
+  <nanos>361000</nanos>
+  <sequence>31</sequence>
+  <logger>banqueAspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>consulterCompte_aroundBody9$advice</method>
+  <thread>1</thread>
+  <message>Avant l'execution de la methodeCompte metier.MetierBanqueImpl.consulterCompte(long)</message>
+</record>
+<record>
+  <date>2022-12-22T21:05:00.998757Z</date>
+  <millis>1671743100998</millis>
+  <nanos>757000</nanos>
+  <sequence>32</sequence>
+  <logger>banqueAspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>consulterCompte_aroundBody9$advice</method>
+  <thread>1</thread>
+  <message>Apres l'execution de la methodeCompte metier.MetierBanqueImpl.consulterCompte(long)</message>
+</record>
+<record>
+  <date>2022-12-22T21:05:00.998980Z</date>
+  <millis>1671743100998</millis>
+  <nanos>980000</nanos>
+  <sequence>33</sequence>
+  <logger>banqueAspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>consulterCompte_aroundBody9$advice</method>
+  <thread>1</thread>
+  <message>duree d'execution de la methode:0 ms</message>
+</record>
+<record>
+  <date>2022-12-22T21:05:00.999167Z</date>
+  <millis>1671743100999</millis>
+  <nanos>167000</nanos>
+  <sequence>34</sequence>
+  <logger>banqueAspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>metier.MetierBanqueImpl</class>
+  <method>consulterCompte_aroundBody9$advice</method>
+  <thread>1</thread>
+  <message>----------</message>
+</record>
+</log>
